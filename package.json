@@ -1,0 +1,20 @@
+{
+  "name": "com.volorf.gaze-trigger",
+  "version": "1.0.0",
+  "displayName": "Gaze Trigger",
+  "description": "Gaze Trigger.",
+  "unity": "2019.4",
+  "unityRelease": "7f1",
+  "hideInEditor": "false",
+  "keywords": [
+    "VR",
+    "gaze",
+    "XR",
+    "trigger"
+  ],
+  "author": {
+    "name": "Oleg Frolov",
+    "email": "olegfrolovdesign@gmail.com",
+    "url": "https://www.olegfrolov.design"
+  }
+}
